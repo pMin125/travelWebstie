@@ -35,4 +35,4 @@
 - Nginx + EC2 활용한 실제 운영 환경 구성
 
 ## 시연 이미지
-> [(스크린샷 또는 gif 추가)](https://docs.google.com/presentation/d/1IZ-uT5ffndQMo4kRtf8mLynbSewYMcrqGmeO-VIxQIk/edit?slide=id.p#slide=id.p)
+> (https://docs.google.com/presentation/d/1IZ-uT5ffndQMo4kRtf8mLynbSewYMcrqGmeO-VIxQIk/edit?slide=id.p#slide=id.p)
